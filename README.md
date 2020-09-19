@@ -1,4 +1,4 @@
-# video_conversion_to_photos
+# Video_Conversion_to_Photos
 Converts video into photos using python and store all the frames in your pc.
 
 
