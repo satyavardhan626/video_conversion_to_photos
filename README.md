@@ -1,5 +1,5 @@
 # video_conversion_to_photos
-converting videos to photos using python.
+Converts video into photos using python and store all the frames in your oc.
 
 
 # Download python,cv2 from pip install opencv-python
