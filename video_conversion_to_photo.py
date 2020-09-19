@@ -24,4 +24,4 @@ def extractImages(pathIn, pathOut):
       cv2.imwrite( pathOut + "\\frame%d.jpg" % count, image)     # save frame as JPEG file
       count += 1
 
-extractImages(r"C:\Users\Navajna\Downloads\REC_2020_07_12_03_25_24_F.MP4", r"C:\Users\Navajna\Downloads\test")
+extractImages(r"C:\Users\Downloads\REC_2020_07_12_03_25_24_F.MP4", r"C:\Users\Downloads\test")
